@@ -1,13 +1,13 @@
 // Edit this list as organizer participation and affiliations are confirmed.
 const proposedOrganizers = [
-  {name:'Rizwan Qureshi', role:'AI/ML Lead Scientist', affiliation:'MGB / MIT FMML'},
+  {name:'Rizwan Qureshi', role:'AI/ML Lead Scientist', affiliation:'MGB / MIT PRiSM'},
   {name:'Frida E. Polli', role:'Research Scientist', affiliation:'MIT'},
   {name:'David Pépin', role:'Associate Professor of Surgery', affiliation:'Harvard Medical School / MGH'},
   {name:'Marina Sirota', role:'Professor of Pediatrics', affiliation:'UCSF'},
   {name:'Cecilia Lindgren', role:'Genomics researcher', affiliation:'University of Oxford'},
   {name:'Diana R. Dou', role:'Assistant Professor', affiliation:'Duke University'},
   {name:'Anas Zafar', role:'Research Associate', affiliation:'MD Anderson Cancer Center'},
-  {name:'Aviv Solan', role:'Research collaborator', affiliation:'Columbia / FMML'}
+  {name:'Aviv Solan', role:'Research collaborator', affiliation:'Columbia / PRiSM'}
 ];
 const grid = document.querySelector('#people-grid');
 if(grid){
