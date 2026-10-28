@@ -26,3 +26,23 @@
     vertical-align: middle;
     margin-right: 10px;
 }
+
+/* PRiSM logo size adjustment */
+.prism-top-logo img {
+    width: 150px;
+    max-width: 100%;
+    height: auto;
+}
+
+.prism-button-logo {
+    width: 32px;
+    height: 24px;
+    object-fit: contain;
+    margin-right: 8px;
+}
+
+@media (max-width: 600px) {
+    .prism-top-logo img {
+        width: 120px;
+    }
+}
