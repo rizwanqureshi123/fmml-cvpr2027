@@ -65,3 +65,22 @@
     object-fit: contain !important;
     display: block !important;
 }
+
+/* Final PRiSM header logo */
+.site-header .brand-mark {
+    width: 74px !important;
+    height: 54px !important;
+    background: white !important;
+    overflow: hidden !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-shrink: 0;
+}
+
+.site-header .brand-mark img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+}
